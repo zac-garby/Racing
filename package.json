@@ -1,0 +1,25 @@
+{
+  "name": "racing",
+  "version": "1.0.0",
+  "description": "Genetic algorithm to teach cars to chase objects",
+  "main": "bundle.js",
+  "dependencies": {
+    "npm": "^6.4.0",
+    "ray-aabb": "^3.0.2",
+    "synaptic": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zac-garby/racing.git"
+  },
+  "author": "Zac Garby <me@zacgarby.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zac-garby/racing/issues"
+  },
+  "homepage": "https://github.com/zac-garby/racing#readme"
+}
